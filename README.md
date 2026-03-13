@@ -20,7 +20,7 @@ I'm **Fussy0064**, an IT student at **CBE Dar-es-Salaam, Tanzania**, and a passi
 ## 🛠️ Tech Stack
 
 **Languages:** 
-- Java (Advanced)
+- Java (Intermediate)
 - Python (Intermediate)
 - C++
 - PHP
@@ -38,6 +38,7 @@ I'm **Fussy0064**, an IT student at **CBE Dar-es-Salaam, Tanzania**, and a passi
 - App Development
 - Problem-solving
 - Clean Code Practices
+- **Kali Linux** 
 
 ## 🏆 Featured Projects
 
@@ -50,7 +51,7 @@ An innovative application built with modern technologies. Trueman-App demonstrat
 
 ## 🎯 Learning & Development
 
-- 📚 Currently deepening: **Cybersecurity**, **Advanced Java**, **Mobile App Development**
+- 📚 Currently deepening: **Cybersecurity**, **Intermediate Java**, **Mobile App Development**
 - 🎯 Goals for 2026: 
   - Build production-ready applications
   - Contribute to open-source security projects
@@ -67,6 +68,7 @@ I'm particularly interested in:
 - ✅ Cybersecurity & Secure Coding
 - ✅ Database Design & Optimization
 - ✅ Open-source Contributions
+- ✅ Linux
 
 ## 🤝 Let's Connect
 
@@ -74,7 +76,7 @@ I'd love to connect with fellow developers, cybersecurity enthusiasts, and tech 
 
 - **Email:** [fussy0064@gmail.com](mailto:fussy0064@gmail.com)
 - **Location:** Dar-es-Salaam, Tanzania 🇹🇿
-- *More social links coming soon!*
+- **Instagram:** [_fussy0064](https://www.instagram.com/_fussy0064)
 
 ## 📢 Open to Collaboration
 
