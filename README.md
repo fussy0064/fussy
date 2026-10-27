@@ -83,7 +83,7 @@ I'd love to connect with fellow developers, cybersecurity enthusiasts, and tech 
 - **Email:** [fussy0064@gmail.com](mailto:fussy0064@gmail.com)
 - **Location:** Dar-es-Salaam, Tanzania 🇹🇿
 - **Instagram:** [code__0064](https://www.instagram.com/code__0064)
-- **Website:** [Fussy0064](https://www.fussy0064.vercel.app/)
+- **Website:** [Fussy0064](https://fussy0064.vercel.app/)
 - **X:**[fussy0064](https://www.x.com/fussy0064/)
 - **Discord:**[fussy0064](https://www.discord.com/user/1445874516579323917/)
 
